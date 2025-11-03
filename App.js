@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 // nested structure:
 /**
  * <div id = "parent">
@@ -15,7 +17,7 @@ const parent = React.createElement(
         "div",
         { id: "child" },
         [
-            React.createElement("h1", {}, "h1 tag it is"),  // array of children
+            React.createElement("h1", {}, "h1 tag it is, learning react"),  // array of children
             React.createElement("h2",{},"h2 tag it is!")
         ]
     )
