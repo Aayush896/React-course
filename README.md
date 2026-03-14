@@ -1,7 +1,7 @@
 # React Learning
 
-
 # Parcel
+
 - Dev Build
 - Local Server
 - HMR = Hot Module Replacement
@@ -19,3 +19,18 @@
 - Https
 - Tree Shaking - remove unused code for you
 - Different dev and prod bundles
+
+# Food Ordering App
+
+/\* Header - Logo - Nav items
+
+- Body
+  - Search
+  - Restaurant Container
+    - Restaurant Card
+- Footer
+  -Copyright
+  -links
+  -Address
+  -Contact
+  \*/
