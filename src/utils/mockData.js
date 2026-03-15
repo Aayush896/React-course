@@ -9,7 +9,7 @@ const resList = [
       areaName: "Chandni Chowk",
       costForTwo: "₹350 for two",
       cuisines: ["Pizzas"],
-      avgRating: 4.2,
+      avgRating: 3.7,
       parentId: "721",
       avgRatingString: "4.2",
       totalRatingsString: "482",
@@ -24,6 +24,7 @@ const resList = [
       availability: {
         nextCloseTime: "2026-03-14 23:00:00",
         opened: true,
+        
       },
       badges: {},
       isOpen: true,
@@ -1124,7 +1125,7 @@ const resList = [
         "Bakery",
         "Fast Food",
       ],
-      avgRating: 4.4,
+      avgRating: 3.9,
       parentId: "1",
       avgRatingString: "4.4",
       totalRatingsString: "1.8K+",
